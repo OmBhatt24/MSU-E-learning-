@@ -6,36 +6,36 @@ const courses = [
       {
         itemid: "CSEI01",
         noofcards: 6,
-        domain: "Programing Data Structure And Algorithm",
+        domain: "Programming Data Structure And Algorithm",
         cardlist: [
           {
             cardId: "CSEC01",
-            cardTitle: "Programin in C",
-            desc: "This is a card related to programing language",
+            cardTitle: "Programming in C",
+            desc: "This is a card related to programming language",
             author: "Harry",
             imgurl: "cse_img/c.jfif",
             playlistId: "PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR",
           },
           {
             cardId: "CSEC02",
-            cardTitle: "Object Oriented Programing with C++",
-            desc: "This is a card related to programing language",
+            cardTitle: "Object Oriented Programming with C++",
+            desc: "This is a card related to programming language",
             author: "Harry",
             imgurl: "cse_img/cpp.jfif",
             playlistId: "PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL",
           },
           {
             cardId: "CSEC03",
-            cardTitle: "Object Oriented Programing with Java ",
-            desc: "This is a card related to programing language",
+            cardTitle: "Object Oriented Programming with Java ",
+            desc: "This is a card related to programming language",
             author: "Harry",
             imgurl: "cse_img/java.png",
             playlistId: "PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q",
           },
           {
             cardId: "CSEC04",
-            cardTitle: "Programing in Python",
-            desc: "This is a card related to programing language",
+            cardTitle: "Programming in Python",
+            desc: "This is a card related to programming language",
             author: "Harry",
             imgurl: "cse_img/python.jfif",
             playlistId: "PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME",
@@ -50,8 +50,8 @@ const courses = [
           },
           {
             cardId: "CSEC06",
-            cardTitle: "C++ Programing",
-            desc: "This is a card related to programing",
+            cardTitle: "C++ Programming",
+            desc: "This is a card related to programming",
             author: "Neso Academy",
             imgurl: "cse_img/csx1.webp",
             playlistId: "PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS",
@@ -99,7 +99,7 @@ const courses = [
             cardId: "CSEC05",
             cardTitle: "PostgreSQL",
             desc: "This is a card related to database management",
-            author: "Programing Guru",
+            author: "Programming Guru",
             imgurl: "cse_img/csx3.webp",
             playlistId: "PLk1kxccoEnNEtwGZW-3KAcAlhI_Guwh8x",
           },
@@ -392,7 +392,6 @@ const courses = [
     ],
   },
 
-  
   {
     id: "me01",
     courseName: "mechanical",
@@ -826,7 +825,6 @@ const courses = [
       },
     ],
   },
-
 
   {
     id: "che01",
